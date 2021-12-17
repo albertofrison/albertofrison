@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @albertofrison
 - 👀 I’m interested in learning R and Data Science
-- 🌱 I’m currently learning the R language and Data Science tools, 
-- 💞️ I’m looking to collaborate on simple, basic Data Science projects based on R
-- 📫 How to reach me ...
-
-<!---
-albertofrison/albertofrison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning the R language and basic Data Science tools
+- 📚 I'm currently enrolled in the EdX - Harvard Data Science Professional Certificate Program, styding Data Science and R: I really enjoy it.
+- 💞️ I’m looking to collaborate on simple, basic Data Science projects based on R (not Python, as I cannot allot any more time in learning a new language)
+- 📫 How to reach me... through a DM in LinkedIn https://www.linkedin.com/in/albertofrison/
