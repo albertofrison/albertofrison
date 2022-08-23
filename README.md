@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albertofrison
-- 👀 I work full time in the automotive financial services sector, where I work as Business Development Manager in the EU area
+- 👀 I work full time for FCA Bank - https://www.fcabankgroup.com/it/ - an automotive financial services leader, where I work as Business Development Manager focusing on corporate development (mainly external acquisition projects in Europe)
 - 🌱 I’m currently learning the R language and basic Data Science tools thorugh online courses and by participating to Data Science contexts via #mavenanalytics
 - 📚 I'm currently enrolled in the EdX - Harvard Data Science Professional Certificate Program: so far I completed 6 out of 9 courses
 - 💞️ I’m looking to collaborate on simple, basic Data Science projects based on R
